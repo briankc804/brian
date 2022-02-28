@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+p{
+    background: black;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 750;
+}
+img{
+    background-color: orange;
+    width: 50%;
+    height: 50%;
+
+}
+ 
